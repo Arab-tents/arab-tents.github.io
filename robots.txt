@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arab-tents.github.io/sitemap.xml
